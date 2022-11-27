@@ -32,6 +32,7 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dizer2&show_icons=true&locale=en" alt="dizer2" /></p>
-<hr>
-
+<hr><hr><hr>
+<hr><hr><hr>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dizer2&" alt="dizer2" /></p>
+<hr><hr>
