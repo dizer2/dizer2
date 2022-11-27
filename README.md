@@ -7,11 +7,11 @@
 
 - 🔭 My best IT project [Mykolas-gazebos](https://dizer2.github.io/Mykolas-gazebos/)
 
-- 🌱 I’m currently learning **Academy IT creator**
-
 - 🎨 My best Figma project [Yantarne.fm](https://www.figma.com/proto/PcoNp2VUwG4UYAMRQuI5Cj/Yantarne.fm?node-id=363%3A699&scaling=scale-down&page-id=0%3A1&starting-point-node-id=363%3A699&show-proto-sidebar=1)
 
 - 👨‍💻 All of my projects are available at [https://dizer2.github.io/portfolio/](https://dizer2.github.io/portfolio/)
+
+- 🌱 I’m currently learning **Academy IT creator**
 
 - 💬 Ask me about **js, css, html, ux, ui**
 
