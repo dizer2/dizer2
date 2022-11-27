@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙂, I'm Yurii</h1>
 <hr>
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding" width="600" height="400" align="center">
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding" width="800" height="400" align="center">
 <h1 align="center">Hi 🙂, I'm Yurii</h1>
 <h3 align="center">A passionate frontend developer from Ukrain 💻</h3>
 <img src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="coding" width="100">
