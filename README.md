@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dizer2&show_icons=true&locale=en&layout=compact" alt="dizer2" /></p>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dizer2&show_icons=true&locale=en" alt="dizer2" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dizer2&" alt="dizer2" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dizer2&show_icons=true&locale=en" alt="dizer2" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dizer2&" alt="dizer2" /></p>
