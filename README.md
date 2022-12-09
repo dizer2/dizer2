@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fanfjrfj589@gmail.com**
 
-- ⚡ Fun fact **I know English at B1**
+- ⚡ Fun fact **I am very sociable**
 <hr>
 <p align="center">
 </p>
