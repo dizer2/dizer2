@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fanfjrfj589@gmail.com**
 
-- ⚡ Fun fact **I am very sociable**
+- ⚡ Fun fact **I'm a programmer but I also do cool design**
 <hr>
 <p align="center">
 </p>
