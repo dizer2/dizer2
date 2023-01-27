@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Ukrain 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizer2&label=Profile%20views&color=0e75b6&style=flat" alt="dizer2" /> </p>
 
-- 🔭 My best IT project [Mykolas-gazebos](https://dizer2.github.io/Mykolas-gazebos/)
+- 🔭 My best IT project [Monobank-app]([https://dizer2.github.io/Mykolas-gazebos/](https://monobank-app.netlify.app/))
 
 - 🎨 My best Figma project [Yantarne.fm](https://www.figma.com/proto/PcoNp2VUwG4UYAMRQuI5Cj/Yantarne.fm?node-id=363%3A699&scaling=scale-down&page-id=0%3A1&starting-point-node-id=363%3A699&show-proto-sidebar=1)
 
