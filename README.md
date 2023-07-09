@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Academy IT creator**
 
-- 💬 Ask me about **js, jQuery, css, html, ux, ui, api, git, react, scss**
+- 💬 Ask me about **React, Node.js, Javascript, jQuery, css, html, ux, ui, api, git, scss, bootstrap**
 
 - 📫 How to reach me **fanfjrfj589@gmail.com**
 
