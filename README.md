@@ -2,7 +2,7 @@
 <hr>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding" width="800" height="400" align="center">
 <h1 align="center">Hi 🙂, I'm Yurii</h1>
-<h3 align="center">A passionate frontend developer from Ukrain 💻</h3>
+<h3 align="center">A passionate frontend developer & Web designer from Ukrain 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizer2&label=Profile%20views&color=0e75b6&style=flat" alt="dizer2" /> </p>
 
 - 🔭 My best IT project [Rick-and-Mort](https://rick-morty-pink-beta.vercel.app/)
