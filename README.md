@@ -9,7 +9,7 @@
 
 - 🎨 My best Figma project [Yantarne.fm](https://www.figma.com/proto/PcoNp2VUwG4UYAMRQuI5Cj/Yantarne.fm?node-id=363%3A699&scaling=scale-down&page-id=0%3A1&starting-point-node-id=363%3A699&show-proto-sidebar=1)
 
-- - 🎨 My also good Figma project [Okolus.com](https://www.figma.com/proto/yuERnwZUVgMkdgKAeTmvyh/Okolus?type=design&node-id=106-2330&t=O4oLZLUOadUD8Vlc-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=106%3A2330&mode=design)
+- 🎨 My also good Figma project [Okolus.com](https://www.figma.com/proto/yuERnwZUVgMkdgKAeTmvyh/Okolus?type=design&node-id=106-2330&t=O4oLZLUOadUD8Vlc-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=106%3A2330&mode=design)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yurii-dev.netlify.app/)
 
