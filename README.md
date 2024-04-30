@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer & Web designer from Ukrain 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizer2&label=Profile%20views&color=0e75b6&style=flat" alt="dizer2" /> </p>
 
-- 🔭 My best IT project [Rick-and-Mort](https://rick-morty-pink-beta.vercel.app/)
+- 🔭 My best IT project [Bright Kids](https://brightkids.online)
 
 - 🎨 My best Figma project [Yantarne.fm](https://www.figma.com/proto/PcoNp2VUwG4UYAMRQuI5Cj/Yantarne.fm?node-id=363%3A699&scaling=scale-down&page-id=0%3A1&starting-point-node-id=363%3A699&show-proto-sidebar=1)
 
@@ -12,11 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yurii-dev.netlify.app/)
 
-- 🌱 I’m currently learning **Academy IT creator**
-
 - 💬 Ask me about **React, Node.js, Javascript, jQuery, css, html, ux, ui, api, git, scss, bootstrap**
 
-- 📫 How to reach me **fanfjrfj589@gmail.com**
+- 📫 How to reach me **pushokv165@gmail.com**
 
 - ⚡ Fun fact **I'm a programmer but I also do cool designer**
 <hr>
